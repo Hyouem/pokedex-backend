@@ -1,4 +1,6 @@
 # RetroDex — Backend
+**Interface visual:** [RetroDex — React e TypeScript](https://github.com/Hyouem/pokedex-frontend).
+
 
 Projeto bônus de portfólio: Pokédex fullstack.
 
